@@ -1,0 +1,64 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Russia
+The definition of the card:
+Moscow
+The pair ("Russia":"Moscow") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Italy
+The definition of the card:
+Rome
+The pair ("Italy":"Rome") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+2
+Print the definition of "Russia":
+Rome
+Wrong. The right answer is "Moscow", but your definition is correct for "Rome".
+Print the definition of "Russia":
+Moscow
+Correct!
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest card is "Russia". You have 1 errors answering it.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+1
+Print the definition of "Russia":
+Moscow
+Correct!
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+1
+Print the definition of "Russia":
+Moscow
+Correct!
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+3
+Print the definition of "Russia":
+Moscow
+Correct!
+Print the definition of "Russia":
+Moscow
+Correct!
+Print the definition of "Italy":
+Moscow
+Wrong. The right answer is "Rome", but your definition is correct for "Moscow".
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest cards are "Russia", "Italy". You have 1 errors answering it.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+export
+File name:
+capitals.txt
+2 cards have been saved.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
